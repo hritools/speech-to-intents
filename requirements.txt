@@ -1,0 +1,7 @@
+editdistance
+pymorphy2
+SpeechRecognition
+numpy
+sklearn
+pandas
+tqdm

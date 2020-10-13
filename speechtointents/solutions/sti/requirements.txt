@@ -1,0 +1,4 @@
+editdistance
+pymorphy2
+SpeechRecognition
+numpy
